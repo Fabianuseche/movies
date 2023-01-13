@@ -1,0 +1,22 @@
+.buscar-div{
+  display: flex;
+  width: 100%;
+  border: rgb(42, 42, 220) solid;
+  border-radius: 30px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+#input-buscar{
+  width: 100%;
+  border: none;
+  padding: 5px;
+  outline: none;
+}
+
+.buscar-boton{
+  border: none;
+  padding: 5px;
+  background-color:rgb(42, 42, 220)  ;
+  color: white;
+  font-weight: bold;
+}
